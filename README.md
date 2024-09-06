@@ -1,2 +1,1 @@
-# stos
-share your knowledge
+STOS project
